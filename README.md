@@ -50,8 +50,8 @@ The app allows the user to be able to view create and track daily workouts. The 
 
 ---
 ## Links
-* [Github](https://mountain-workout-tracker.herokuapp.com/)
-* [Heroku](https://mt-workout-tracker.herokuapp.com/)
+* [Github](https://github.com/ryanhadfield/Workout-Tracker)
+* [Heroku](https://mountain-workout-tracker.herokuapp.com/)
 
 ---
 
