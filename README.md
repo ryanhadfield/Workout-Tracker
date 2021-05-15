@@ -36,17 +36,17 @@ The app allows the user to be able to view create and track daily workouts. The 
 
   The home page will show the user's last workout details, then the user will have the option to select **Continue Workout** or **New Workout**
 
-![workout stats](public\img\workout-stats.png)
+![workout stats](https://github.com/ryanhadfield/Workout-Tracker/blob/main/public/img/workout-stats.png?raw=true)
 
 - After selecting an option, the user can add their exercise by choosing an Exercise Type, **Resistance** or **Cardio**
 
-    ![cardio workout fields](public\img\cardio-workout.png)
+    ![cardio workout fields](https://github.com/ryanhadfield/Workout-Tracker/blob/main/public/img/cardio-workout.png?raw=true)
 
-    ![resistance workout fields](public\img\resistance-workout.png)
+    ![resistance workout fields](https://github.com/ryanhadfield/Workout-Tracker/blob/main/public/img/resistance-workout.png?raw=true)
 
 - After the user has entered all the fields of information for their workout and clicked complete they can head on over to the **Dashboard**.  The dashboard shows the info entered in various graphs. 
 
-![workout dashboard](public\img\workout-dashboard.png)
+![workout dashboard](https://github.com/ryanhadfield/Workout-Tracker/blob/main/public/img/workout-dashboard.png?raw=true)
 
 ---
 ## Links
